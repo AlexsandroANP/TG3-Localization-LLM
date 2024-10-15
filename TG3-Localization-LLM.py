@@ -46,7 +46,7 @@ class ModelConfig:
         },
         'Xinference': {
             'key': 'empty-api-key',
-            'endpoint': 'http://192.168.31.170:9997/v1/',
+            'endpoint': 'http://192.168.6.8:9997/v1/',
             'models': ['qwen2.5-instruct', 'qwen2-instruct']
         },
         'zhipu': {
